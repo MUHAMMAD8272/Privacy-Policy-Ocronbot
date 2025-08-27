@@ -6,6 +6,7 @@
 
 [ScrimBOT✨] (“the Bot”) is a Discord bot designed to help users organize and manage PUBG scrims within Discord servers. We value your privacy and are committed to protecting your personal information.
 
+
 2. Data We Collect
 
 The Bot only collects and temporarily processes the following information within Discord:
